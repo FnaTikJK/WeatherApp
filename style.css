@@ -1,0 +1,32 @@
+.widget {
+    width: 300px;
+    height: 600px;
+    margin:10px;
+    padding: 15px;
+    background-color: rgb(209, 205, 205);
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.map {
+    width:100%;
+    height:300px;
+}
+
+.block {
+    display: inline-block;
+    width:100%;
+}
+
+.place-info {
+    font-size: x-large;
+}
+
+.temp-info {
+    font-size: xx-large;
+}
+
+img {
+    float: left;
+}
+
